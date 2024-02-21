@@ -49,5 +49,5 @@ With these steps, you should be able to set up your Python environment, install 
 
 #   🎥 Movie Details:
 
-<img src="https://github.com/uttamaPrh/movie-Recommendation-System-TMDB-/blob/main/movie-detail.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/uttamaPrh/movie-Recommendation-System-Full-version-/blob/main/ironman%20.png" alt="Alt text" title="Optional title">
 
