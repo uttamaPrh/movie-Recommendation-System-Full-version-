@@ -1,6 +1,6 @@
 # Firstly
 
-Setup Python 3.10.12
+<code>Setup Python 3.10.12</code>
 
 ## 1. Create a Virtual Environment
 
