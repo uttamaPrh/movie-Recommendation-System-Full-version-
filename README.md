@@ -1,28 +1,41 @@
-1) Create a virtual env(for linux):
-   code:
+# Firstly
 
-   virtualenv .env
+Setup Python 3.10.12
 
-   
-2) Activte virtual env(linux):
-   code:
+## 1. Create a Virtual Environment
 
-   source .env/bin/activate
-3) Change dir to main:
-   code:
+```bash
+virtualenv .env
+```
 
-   cd main
+## 2. Activate Virtual Environment
 
-   
-4) Install rqmts:
-   code:
+```bash
+source .env/bin/activate
+```
 
-   pip install -r requirements.txt
+## 3. Change Directory to Main
 
+```bash
+cd main
+```
 
-5) Start server:
-   code:
+## 4. Install Requirements
 
-   python manage.py runserver
+```bash
+pip install -r requirements.txt
+```
 
-   
+## 5. Start the Server
+
+```bash
+python manage.py runserver
+```
+
+## 6. Open in Browser
+
+Once the server is running, open the following URL in your browser:
+
+[http://localhost:8000](http://localhost:8000)
+
+With these steps, you should be able to set up your Python environment, install necessary dependencies, and start your server seamlessly. Enjoy coding! 🚀
